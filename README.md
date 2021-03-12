@@ -1,2 +1,2 @@
-# ceaser-cypher-code
-Program to encrypt and decrypt messages.
+# ceaser-cypher-code 🧐 
+A basic program to encrypt and decrypt messages.
